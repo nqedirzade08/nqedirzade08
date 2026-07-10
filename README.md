@@ -1,5 +1,4 @@
 
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D03AQHSOIFYBGp5FA/profile-displayphoto-crop_800_800/B4DZ8OVOodI0AI-/0/1782651874638?e=1785369600&v=beta&t=zqKJ2j143eiDgZvre-t4qGh5JcYBRn2HHLgucQt4k7Q)
 
 
 
