@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Nadir</h1>
 <h3 align="center">A passionate backend devoloper, AI Engineering from Azerbaijan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nqedirzade08&label=Profile%20views&color=0e75b6&style=flat" alt="nqedirzade08" /> </p>
+
 
 - 🔭 I’m currently working on [MedScan AI](https://github.com/nqedirzade08/MedScan-AI)
 
@@ -30,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nqedirzade08&show_icons=true&locale=en" alt="" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nqedirzade08&" alt="nqedirzade08" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nqedirzade08&label=Profile%20views&color=0e75b6&style=flat" alt="nqedirzade08" /> </p>
