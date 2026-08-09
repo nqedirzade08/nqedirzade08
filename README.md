@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Nadir</h1>
-<h3 align="center">A passionate AI/ML Engineering from Azerbaijan</h3>
+<h3 align="center">A passionate Data analytic from Azerbaijan</h3>
 
 
 
