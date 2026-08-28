@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [MedScan AI](https://github.com/nqedirzade08/MedScan-AI)
 
-- 🌱 I’m currently learning **AI/ML Engineering, python, Calculus and etc.**
+- 🌱 I’m currently learning **Data analytics, ML, python, Linear Algebra, Calculus and etc.**
 
-- 💬 Ask me about **How is the model trained?**
+- 💬 Ask me about **Data Analytics, Python, Statistics**
 
 - 📫 How to reach me **nqedirzade08@gmail.com**
 
